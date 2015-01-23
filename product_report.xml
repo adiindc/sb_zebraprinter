@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <report id="report_product_label" model="product.product" name="product.product.label.new" string="Print Zebra Labels" xml="sb_zebraprinter/report/product_label.xml" xsl="sb_zebraprinter/report/product_label.xsl"/>        
+    </data>
+</openerp>

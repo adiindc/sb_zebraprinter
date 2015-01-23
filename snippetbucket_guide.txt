@@ -1,0 +1,43 @@
+################################################################
+
+Snippetbucket.com, Snippetbucket Technologies.
+Code: Zebra Printer Module
+
+* License: Commercial, All rights reserved by Snippetbucket.com
+
+Website: http://www.snippetbucket.com/
+Email  : snippetbucket@gmail.com
+Skype  : live.snippetbucket
+Phone  : +91-8511153398
+
+#################################################################
+
+
+How to install ?
+-----------------
+    Move this module to addons directory.
+    Restart + Update modules lists
+        Settings -> update modules list 
+
+    Go to modules, find zebra module, install it.
+
+    Once installed.
+
+    Sales -> products -> products list / product form -> more -> print zebra labels
+
+
+How to customzied ?
+
+sb_zebraprinter/report/product_label.xml
+    This file responsible to fields, you can add or remove fields for zebra label printer
+
+sb_zebraprinter/report/product_label.xsl
+    This file responsible for layout and size of print.
+    As per print change xsl parameters, its very easy based on XML.
+    
+
+How to get support ?
+    You can take support for modifiation, contact us at snippetbucket.com or skype us.
+
+
+
