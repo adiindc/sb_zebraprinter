@@ -3,6 +3,7 @@
     <lot-line type="fields" name="id">
         <code type="field" name="default_code"/>
         <product type="field" name="name"/>
+        
         <price type="field" name="list_price"/>
         <ean13 type="field" name="ean13"/>
         <company type="field" name="company_id.name"/>
